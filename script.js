@@ -4,7 +4,7 @@ var fontcolor=document.getElementById("fontcolor")
 var myCookies=document.cookie.split("; ")
 
 myCookies.map((item)=>{
-	var cookieslist=item.split("=")
+	var cookielist=item.split("=")
 })
 
 function onSubmit(event){
