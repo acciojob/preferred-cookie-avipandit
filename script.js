@@ -1,5 +1,5 @@
 var fontsize=document.getElementById("fontsize")
-var fontsize=document.getElementById("fontcolor")
+var fontcolor=document.getElementById("fontcolor")
 
 var myCookies=document.cookie.split("; ")
 
